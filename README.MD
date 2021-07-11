@@ -6,7 +6,3 @@
 * OP OP Coding
 * Barebone no framework
 * Bleeding edge
-
-
-#### Send help
-On 9818898862 Plaes, I need monnie for SSD
